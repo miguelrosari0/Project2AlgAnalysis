@@ -22,13 +22,13 @@ More detailed on the dataset can be found at https://www.kaggle.com/datasets/ahm
 # 1. Create a build folder and move into it
 mkdir -p build && cd build
 
-# 2. Tell CMake to read your CMakeLists.txt blueprint
+# 2. Tell CMake to read CMakeLists.txt blueprint
 cmake .. -DCMAKE_BUILD_TYPE=Release
 
-# 3. Compile the code (the -j flag uses all your Mac's CPU cores to make it faster)
+# 3. Compile the code 
 cmake --build . --target Project2 -j
 
-# 4. Move back to the main folder and run the program!
+# 4. Move back to the main folder and run the program
 cd ..
 ./build/Project2
 ```
