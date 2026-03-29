@@ -36,8 +36,10 @@ cd ..
 * Node.js
 * npm
 # From the my-app folder, 
+```bash
 npm install
 npm install recharts
 npm run dev
 Local server will open at http://localhost:5173
 After running CLI commands and exiting the program, move benchmark.json from cmake-build-debug to my-app/public and restart server if needed
+```
