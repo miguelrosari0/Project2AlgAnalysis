@@ -33,9 +33,11 @@ cd ..
 ./build/Project2
 ```
 # Frontend Setup
+
+## Requirements
 * Node.js
 * npm
-# From the my-app folder, 
+## From the my-app folder
 ```bash
 npm install
 npm install recharts
