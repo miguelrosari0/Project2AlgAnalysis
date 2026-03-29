@@ -1,0 +1,70 @@
+{
+  "Price": {
+    "randomized": [
+		{ "size": 100000, "merge": 73, "quick": 259417 }
+    ],
+    "worstCase": [
+      { "size": 100000, "merge": 73, "quick": 259417 }
+    ]
+  },
+  "Beds": {
+    "randomized": [
+    ],
+    "worstCase": [
+    ]
+  },
+  "Baths": {
+    "randomized": [
+    ],
+    "worstCase": [
+    ]
+  },
+  "House Size": {
+    "randomized": [
+    ],
+    "worstCase": [
+    ]
+  },
+  "preview": [
+    {
+      "price": 1,
+      "beds": 0,
+      "baths": 0,
+      "houseSize": 0,
+      "city": "Waltham",
+      "state": "Massachusetts"
+    },
+    {
+      "price": 1,
+      "beds": 0,
+      "baths": 0,
+      "houseSize": 0,
+      "city": "Duxbury",
+      "state": "Massachusetts"
+    },
+    {
+      "price": 1,
+      "beds": 1,
+      "baths": 1,
+      "houseSize": 0,
+      "city": "Roselle",
+      "state": "New Jersey"
+    },
+    {
+      "price": 175,
+      "beds": 0,
+      "baths": 0,
+      "houseSize": 0,
+      "city": "Port Jefferson",
+      "state": "New York"
+    },
+    {
+      "price": 385,
+      "beds": 0,
+      "baths": 0,
+      "houseSize": 0,
+      "city": "Ossipee",
+      "state": "New Hampshire"
+    }
+  ]
+}
