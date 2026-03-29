@@ -276,7 +276,7 @@ int main() {
         }
     }
 
-    writeBenchmarkJson("benchmark.json", exportedBenchmarks, exportedPreview);
+    writeBenchmarkJson("../frontend/my-app/public/data/benchmark.json", exportedBenchmarks, exportedPreview);
     std::cout << "benchmark.json written successfully.\n";
     std::cout << "Exiting program. Goodbye!\n";
 
