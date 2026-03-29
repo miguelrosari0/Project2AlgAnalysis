@@ -11,6 +11,7 @@ More detailed on the dataset can be found at https://www.kaggle.com/datasets/ahm
 * **Stack Overflow Prevention:** Utilizes a custom `std::stack` implementation for Quick Sort to prevent call stack crashes during extreme recursion depths.
 * **Performance Benchmarking:** Uses C++ `<chrono>` to precisely measure CPU execution time in milliseconds.
 * **Interactive CLI:** Allows the user to toggle between randomized data, worst-case pre-sorted data, and different sorting by attributes (Price, Beds, Baths, House Size).
+* **React Frontend:** Simple frontend made in Vite React to visualize data collected by the analysis.
 
 ## Requirements
 * C++17
